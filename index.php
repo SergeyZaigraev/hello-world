@@ -7,5 +7,8 @@ class GitHub{
 		$this->login = $login;
 		$this->password = $password;
 	}
+	public hi(){
+		print $this->login;
+	}
 }
 ?>
