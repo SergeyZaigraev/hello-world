@@ -1,7 +1,6 @@
 <?php 
-
-print "Hello world!";
-print "Hello world!";
-print "Hello world!";
-
+class GitHub{
+	public $login;
+	public $password;
+}
 ?>
